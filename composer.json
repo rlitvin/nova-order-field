@@ -1,5 +1,5 @@
 {
-    "name": "michielkempen/nova-order-field",
+    "name": "rlitvin/nova-order-field",
     "description": "A Laravel Nova field.",
     "keywords": [
         "laravel",
